@@ -1,0 +1,16 @@
+{
+  "name": "atividade4",
+  "version": "1.0.0",
+  "description": "Simulando uma API REST com TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "author": "Janio Vinicius de Jesus Silva",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^24.7.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
